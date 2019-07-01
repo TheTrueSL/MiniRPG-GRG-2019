@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Randomizer
+comment1.params=
+comment1.target=Randomizer()
+comment2.params=
+comment2.target=int\ erzeugenZufallZwischen1und100()
+comment3.params=
+comment3.target=int\ CoinToss()
+comment4.params=
+comment4.target=int\ erzeugenZufallZwischen1und10()
+numComments=5

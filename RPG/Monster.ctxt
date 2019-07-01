@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Monster
+comment1.params=nATK\ nDEF\ nMagATK\ nMagDEF\ nLeben
+comment1.target=Monster(int,\ int,\ int,\ int,\ int)
+comment2.params=x
+comment2.target=void\ LebenHeilen(int)
+comment3.params=x
+comment3.target=void\ LebenVerloren(int)
+comment4.params=
+comment4.target=int\ heilen()
+numComments=5

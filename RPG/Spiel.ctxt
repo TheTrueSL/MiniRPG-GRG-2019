@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Spiel
+comment1.params=Auswahl
+comment1.target=Spiel(java.lang.String)
+comment2.params=
+comment2.target=void\ Angriff()
+comment3.params=
+comment3.target=void\ Magie()
+comment4.params=
+comment4.target=void\ Heilen()
+numComments=5
